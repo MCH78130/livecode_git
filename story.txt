@@ -8,3 +8,10 @@ test
 git
 github
 iohfhofh
+
+
+un miroir brisé.  
+Des fragments étaient éparpillés partout sur le sol.  
+John entendit un bruit étrange venant du salon.  
+Il s'empressa d'aller voir ce qui se passait.  
+Mais à sa grande surprise, la porte était verrouillée de l'intérieur.  
